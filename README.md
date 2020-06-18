@@ -2,4 +2,4 @@
 
 Simple utility to calculate paycheck percentages
 
-`pay-router <pay amount>`
+`pay-calc <pay amount>`
