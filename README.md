@@ -1,4 +1,4 @@
-## Pay-Router
+## Pay-Calc
 
 Simple utility to calculate paycheck percentages
 
